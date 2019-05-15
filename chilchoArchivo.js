@@ -15,4 +15,8 @@ function init(){
 	alert("Chotos")
 }
 
+function() {
+	return "Hola";
+}
+
 init();
