@@ -19,4 +19,8 @@ function() {
 	return "Hola";
 }
 
+function() {
+	return "Hola prro";
+}
+
 init();
