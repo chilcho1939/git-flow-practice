@@ -10,3 +10,9 @@ function() {
 		message: "hora jijo del chile"
 	}
 }
+
+function init(){
+	alert("Chotos")
+}
+
+init();
